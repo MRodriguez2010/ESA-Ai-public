@@ -1,0 +1,38 @@
+{
+  "focus": "Alder Works",
+  "observations": 36,
+  "topics": [
+    {
+      "topic": "Growth opportunities",
+      "focus_yes": 159,
+      "focus_total": 288,
+      "peer_yes": 518,
+      "peer_total": 756,
+      "gap_pp": -13.3
+    },
+    {
+      "topic": "Manager support",
+      "focus_yes": 212,
+      "focus_total": 279,
+      "peer_yes": 527,
+      "peer_total": 738,
+      "gap_pp": 4.6
+    },
+    {
+      "topic": "Role clarity",
+      "focus_yes": 222,
+      "focus_total": 270,
+      "peer_yes": 538,
+      "peer_total": 720,
+      "gap_pp": 7.5
+    },
+    {
+      "topic": "Workload",
+      "focus_yes": 183,
+      "focus_total": 297,
+      "peer_yes": 499,
+      "peer_total": 774,
+      "gap_pp": -2.9
+    }
+  ]
+}
