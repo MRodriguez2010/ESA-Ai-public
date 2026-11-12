@@ -1,5 +1,7 @@
 # Employee Sentiment Analysis · Evidence curation
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 Turn a validated summary into a reviewable narrative. In offline mode the largest absolute topic gap is selected. An optional local model may choose a topic from the supplied evidence IDs. Python fills in the actual counts, so the selection step cannot change a metric.
 
 ```sh
